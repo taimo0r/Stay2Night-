@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729488515063",
+    "firebase_url": "https://stay2night-2f919-default-rtdb.firebaseio.com",
+    "project_id": "stay2night-2f919",
+    "storage_bucket": "stay2night-2f919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729488515063:android:6e751684142cfdade898f2",
+        "android_client_info": {
+          "package_name": "com.taimoor.stay2night"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729488515063-ehd43bcnorlpa4faij8n3id9hnoqhc3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA41Cp6SbKC634PFvUn0thY-zbA8qr9dqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729488515063-ehd43bcnorlpa4faij8n3id9hnoqhc3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

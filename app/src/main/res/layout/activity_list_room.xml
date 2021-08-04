@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="30dp"
+    android:background="@color/lightWhite"
+    android:orientation="vertical"
+    tools:context=".User.ListRoom">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <ImageView
+            android:id="@+id/RoomImage"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/mage_100" />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/room_title"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Title"
+            android:textColorHint="@color/black"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            app:endIconMode="clear_text"
+            app:endIconTint="@color/black"
+            app:hintTextColor="@color/black"
+            app:startIconDrawable="@drawable/full_name_icon"
+            app:startIconTint="@color/black">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="text" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/room_description"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Description"
+            android:textColorHint="@color/black"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            app:endIconMode="clear_text"
+            app:endIconTint="@color/black"
+            app:hintTextColor="@color/black"
+            app:startIconDrawable="@drawable/description_24"
+            app:startIconTint="@color/black">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="textLongMessage" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/room_Location"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Location"
+            android:textColorHint="@color/black"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            app:endIconMode="clear_text"
+            app:endIconTint="@color/black"
+            app:hintTextColor="@color/black"
+            app:startIconDrawable="@drawable/add_room_icon"
+            app:startIconTint="@color/black">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="text" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/room_price"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Price"
+            android:textColorHint="@color/black"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            app:endIconMode="clear_text"
+            app:endIconTint="@color/black"
+            app:hintTextColor="@color/black"
+            app:startIconDrawable="@drawable/money_24"
+            app:startIconTint="@color/black">
+
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="number" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/listRoom_phone_number"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/phone_number"
+            android:textColorHint="@color/black"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            app:endIconMode="clear_text"
+            app:endIconTint="@color/black"
+            app:hintTextColor="@color/black"
+            app:startIconDrawable="@drawable/phone_icon"
+            app:startIconTint="@color/black">
+
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="number" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/buttongradient"
+                android:onClick="openGallery"
+                android:text="Select Image"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+
+
+            <Button
+                android:id="@+id/pickLocation"
+                android:layout_width="0dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="14dp"
+                android:layout_weight="1"
+                android:background="@drawable/buttongradient"
+                android:onClick="openLocation"
+                android:text="Add Current Location"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+
+        </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/buttongradient"
+            android:onClick="listRoomBtn"
+            android:text="List Room"
+            android:textColor="@color/black"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+</ScrollView>

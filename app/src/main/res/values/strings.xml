@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Stay2Night</string>
+    <string name="logo_name">Stay2Night</string>
+    <string name="slogan">Get a Room</string>
+    <string name="powered_by">Powered by Taimoor</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search. </string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by following simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you not have to worry about anything.  </string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    //Strings for Dashboard
+
+    //Categories
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="education">Education</string>
+
+    //Titles and Descriptions
+    <string name="Featured_locations">Featured Locations</string>
+    <string name="Featured_locations_description">All the Locations that are featured and have the top demand in town!</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search</string>
+
+    //Navigation menu strings
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="all_categories">All Categories</string>
+    <string name="add_room">List your own Room</string>
+
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us!</string>
+
+
+    //Categories activity strings
+    <string name="car_rent">Car Rent</string>
+    <string name="hospital">Hospitals</string>
+    <string name="expand_all">Expand All</string>
+
+    <!-- Retailer panel Strings -->
+
+    //General Strings
+
+    <string name="sign_up">Sign Up</string>
+    <string name="retailer_heading">Grow\nYour Business</string>
+    <string name="retailer_tag_line">We will help you to grow your business using online services!</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="how_we_work">How we work?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+
+    //Login page Strings
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+
+    //Signup Strings
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="signup_sreen">1/3</string>
+    <string name="signup_screen2">2/3</string>
+    <string name="signup_screen3">3/3</string>
+
+    //OTP Screen Strings
+    <string name="otp_cde_text">Co\nde</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Code</string>
+
+    <string name="verify_code">Verify Code</string>
+    <string name="forget_password_detail">Provide your Phone Number for which you want to reset your Password</string>
+    <string name="make_selection_detail">Select which contact detail should we use to reset your password?</string>
+    <string name="make_selection">Make Selection</string>
+    <string name="via_sms">Via SMS</string>
+    <string name="via_email">Via Email</string>
+    <string name="new_credentials">New Credentials</string>
+    <string name="new_credentials_detail">Your identity has been verified!\nSet your new password</string>
+    <string name="new_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_updated">Password\nUpdated</string>
+    <string name="password_updated_success_msg">Your password has been updated</string>
+    <string name="update">Update</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="title_activity_rooms_map_location">Map</string>
+
+    <string name="facebook_app_id">958235018054169</string>
+    <string name="fb_login_protocol_scheme">fb958235018054169</string>
+
+</resources>

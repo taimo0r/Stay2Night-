@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_light_58a8a4b38001d.otf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\brandon_grotesque_light_58a8a4b38001d.otf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_corners.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\round_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_price_50.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\price_50.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_location_48px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\search_location_48px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xhdpi\\search_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splashscreeenlogo.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-hdpi\\splashscreeenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_most_viewed_card_design.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\most_viewed_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_featured_card_design.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\featured_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-ldpi\\search_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_thin_italic_58a8a3a8861fe.otf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\brandon_grotesque_thin_italic_58a8a3a8861fe.otf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_room.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_list_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cash_64.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\cash_64.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_shop_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\categories_shop_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_dashboard.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_user_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\anim_side_anim.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\anim\\side_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_make_a_call.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxxhdpi\\make_a_call.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospital_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\hospital_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\phone_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_description_24.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\description_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\login_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_make_a_call.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-mdpi\\make_a_call.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_car_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\categories_car_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_hospital_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\categories_hospital_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_ds_digital_bold.ttf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\ds_digital_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_border.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\black_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_iccon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\email_iccon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg2.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\round_bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradientbackground.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\gradientbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sit_back_and_relax.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-ldpi\\sit_back_and_relax.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_money_24.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\money_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bank_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\bank_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shopping_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\shopping_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_make_a_call.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xhdpi\\make_a_call.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_all_categories.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_all_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_light_italic_58a8a4ccb88be.otf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\brandon_grotesque_light_italic_58a8a4ccb88be.otf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\category_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_muli.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\muli.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_room_detail_view.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_room_detail_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\share_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_missing_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-hdpi\\add_missing_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_circle.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\black_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_100.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\email_100.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-hdpi\\search_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_indicator.gif.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\progress_indicator.gif"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_missing_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-mdpi\\add_missing_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_restaurant_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\restaurant_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart_48.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\heart_48.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sit_back_and_relax.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-mdpi\\sit_back_and_relax.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_pssword.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_forget_pssword.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_make_a_call.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-ldpi\\make_a_call.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card2.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\card2.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobile_icon_100px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\mobile_icon_100px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_signup.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splashscreeenlogo.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxhdpi\\splashscreeenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bedroom_50.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\bedroom_50.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_education_50px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\education_50px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_missing_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxxhdpi\\add_missing_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_black_border.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\circle_black_border.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxxhdpi\\search_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailerdashboard.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailerdashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_restaurant_48px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\restaurant_48px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_login.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter_48.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\twitter_48.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_make_a_call.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-hdpi\\make_a_call.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_missing_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-ldpi\\add_missing_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splashscreeenlogo.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xhdpi\\splashscreeenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_animation.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\anim\\slide_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_city_1.jpg.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\city_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_bold_italic_58a8a48221563.otf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\brandon_grotesque_bold_italic_58a8a48221563.otf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sit_back_and_relax.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xhdpi\\sit_back_and_relax.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google_48.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\google_48.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sit_back_and_relax.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-hdpi\\sit_back_and_relax.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password_success_msg.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_forget_password_success_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_retailer_dashboard.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\fragment_retailer_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splashscreeenlogo.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-mdpi\\splashscreeenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_categories_card_design.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\categories_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-mdpi\\search_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_50px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\circle_50px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_verify_otp.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_verify_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_google_maps.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_google_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_make_selection.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_make_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_retailer_profile.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\fragment_retailer_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sit_back_and_relax.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxhdpi\\sit_back_and_relax.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_48.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\facebook_48.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_signup2nd_class.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_signup2nd_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_school_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\school_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\close_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttongradient.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\buttongradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_missing_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxhdpi\\add_missing_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_room_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\add_room_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set_new_password.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_set_new_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card3.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\card3.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\user_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobile_icon.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\mobile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_black_58a8a3e824392.otf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\brandon_grotesque_black_58a8a3e824392.otf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_city_2.jpg.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\city_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\logout_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg3.jpg.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\round_bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sit_back_and_relax.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxxhdpi\\sit_back_and_relax.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_missing_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xhdpi\\add_missing_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bicycle_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\bicycle_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_circle.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\white_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_nav_profile_icon.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\bottom_nav_profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splashscreeenlogo.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-ldpi\\splashscreeenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_24px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\menu_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splashscreeenlogo.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxxhdpi\\splashscreeenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rate_us.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\rate_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_retailer_manage.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\fragment_retailer_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mcdonalds_img.jpg.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\mcdonalds_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_regular_italic_58a8a456c4724.otf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\brandon_grotesque_regular_italic_58a8a456c4724.otf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shop_48px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\shop_48px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_muli_black.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\muli_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_slides_layout.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\slides_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_nav_manage_icon.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\bottom_nav_manage_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skip_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\skip_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_startup_screen.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_startup_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_password_updated_icon.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\password_updated_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hotel_64px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\hotel_64px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next_btn.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\next_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_forgot_password_100.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\forgot_password_100.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_black_circle_50.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\black_circle_50.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_full_name_icon.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\full_name_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card4.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\card4.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_update_new_password_icon.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\update_new_password_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg1.jpg.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\round_bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_header.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_brandon_grotesque_medium_italic_58a8a3c40866a.otf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\brandon_grotesque_medium_italic_58a8a3c40866a.otf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mage_100.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\mage_100.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_nav_dashboard_icon.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\bottom_nav_dashboard_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categories_restaurant_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\categories_restaurant_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_room_30px.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\add_room_30px.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.ttf.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\font\\baloo.ttf"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_place.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxhdpi\\search_place.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card1.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\card1.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_anim.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\anim\\bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_make_a_call.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable-xxhdpi\\make_a_call.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google_maps_48.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\google_maps_48.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rooms_map_location.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_rooms_map_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_on_boarding.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_on_boarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg4.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\round_bg4.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_icon.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transport_img.png.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\drawable\\transport_img.png"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_retailer_signup3rd_class.xml.flat",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_signup3rd_class.xml"
+    }
+]

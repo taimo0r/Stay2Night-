@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+   android:id="@+id/featuredCardView"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="8dp"
+    android:layout_margin="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:background="@drawable/gradientbackground">
+
+        <ImageView
+            android:id="@+id/featured_image"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:src="@drawable/mcdonalds_img"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/featured_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/baloo"
+            android:text="Mcdonald's"
+            android:layout_below="@+id/featured_image"
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp" />
+
+        <RatingBar
+            android:id="@+id/featured_ratingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:rating="3.5"
+            android:layout_below="@+id/featured_title"
+            style="@style/Widget.AppCompat.RatingBar.Small"/>
+
+        <TextView
+            android:id="@+id/featured_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/featured_ratingBar"
+            android:text="fkfmvkf djisdjisdjisdjmksmvodskvkskvmksmvskmvksmv"/>
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/muli"
+            android:layout_below="@+id/featured_desc"
+            android:text="Location : "
+            android:textColor="#044363"/>
+
+        <TextView
+            android:id="@+id/roomLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/featured_desc"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="4dp"
+            android:layout_toRightOf="@+id/location"
+            android:fontFamily="@font/muli"
+            android:text="Sialkot" />
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/featured_image"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="7dp"
+            android:layout_toRightOf="@+id/featured_title"
+            android:fontFamily="@font/muli"
+            android:text="Price : "
+            android:textColor="#044363" />
+
+        <TextView
+            android:id="@+id/roomPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/featured_image"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="7dp"
+            android:layout_toRightOf="@+id/price"
+            android:fontFamily="@font/muli"
+            android:text="2500" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

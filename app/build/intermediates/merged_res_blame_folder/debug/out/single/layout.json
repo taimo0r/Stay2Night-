@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_all_categories.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_all_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\featured_card_design.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\featured_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_signup.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forget_pssword.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_forget_pssword.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_on_boarding.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_on_boarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_retailer_dashboard.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\fragment_retailer_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_startup_screen.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_startup_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_google_maps.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_google_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forget_password_success_msg.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_forget_password_success_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\categories_card_design.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\categories_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_room.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_list_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_set_new_password.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_set_new_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_verify_otp.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_verify_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_rooms_map_location.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_rooms_map_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_signup2nd_class.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_signup2nd_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_room_detail_view.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_room_detail_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_login.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailerdashboard.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailerdashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_retailer_manage.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\fragment_retailer_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\menu_header.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\slides_layout.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\slides_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_dashboard.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_user_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\most_viewed_card_design.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\most_viewed_card_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_retailer_profile.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\fragment_retailer_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retailer_signup3rd_class.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_retailer_signup3rd_class.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_make_selection.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\activity_make_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\splash_screen.xml",
+        "source": "C:\\Users\\windows\\AndroidStudioProjects\\Stay2Night\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    }
+]
