@@ -32,7 +32,17 @@ To get started with Stay2Night, follow these simple steps:
 
 ## 📱 Screenshots
 
-![Login](Screenshots/Stay2Night.jpeg){:width="100px"}
+![Login Screen](Screenshots/Stay2Night.jpeg){:width="100px"}
+
+![Signup Screen](Screenshots/Stay2Night_SignUpActivity.jpeg){:width="150px"}
+
+![Home Screen](Screenshots/Stay2Night_HomeActivity.jpeg){:width="150px"}
+
+![Room Details Screen](Screenshots/Stay2Night_RoomDetailActivity.jpeg){:width="150px"}
+
+![List Room Screen](Screenshots/Stay2Night_ListRoomActivity.jpeg){:width="150px"}
+
+![Sidebar Navigation](Screenshots/Stay2Night_SidebarNavigation.jpeg){:width="150px"}
 
 ## 🚀 Download Now!
 
