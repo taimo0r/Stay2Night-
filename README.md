@@ -34,6 +34,8 @@ To get started with Stay2Night, follow these simple steps:
 
 ![Login Screen](Screenshots/Stay2Night.jpeg){:width="100px"}
 
+<img src="Screenshots/Stay2Night.jpeg" alt="Login Screen" width="300"/>
+
 ![Signup Screen](Screenshots/Stay2Night_SignUpActivity.jpeg){:width="150px"}
 
 ![Home Screen](Screenshots/Stay2Night_HomeActivity.jpeg){:width="150px"}
