@@ -32,7 +32,7 @@ To get started with Stay2Night, follow these simple steps:
 
 ## 📱 Screenshots
 
-![App Screenshots](link-to-screenshots.png)
+![Login](Stay2Night.jpeg)
 
 ## 🚀 Download Now!
 
